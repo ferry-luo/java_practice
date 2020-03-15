@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf38ec88-d483-4f4a-867c-629b4a3586b5" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P7qLkwDqlgDqzCWe0UBQoDHfHy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Tiyu">
+    <configuration name="AutoTypeTransform" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutoTypeTransform" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HappyNewYear" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HappyNewYear" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_interface_Animal" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animals.Test_interface_Animal" />
+      <module name="java_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tiyu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tiyu" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableType" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableType" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tiyu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf38ec88-d483-4f4a-867c-629b4a3586b5" name="默认的" comment="" />
+      <created>1565235428543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565235428543</updated>
+      <workItem from="1565235435685" duration="44465000" />
+      <workItem from="1565493920731" duration="437000" />
+      <workItem from="1565494372831" duration="135000" />
+      <workItem from="1565494520486" duration="616000" />
+      <workItem from="1565572113082" duration="8712000" />
+      <workItem from="1565746993374" duration="635000" />
+      <workItem from="1565832772050" duration="25000" />
+      <workItem from="1565835735203" duration="35000" />
+      <workItem from="1566087075905" duration="970000" />
+      <workItem from="1566088236436" duration="4491000" />
+      <workItem from="1566096035923" duration="14440000" />
+      <workItem from="1566184068614" duration="4062000" />
+      <workItem from="1566205747209" duration="2921000" />
+      <workItem from="1566280170460" duration="646000" />
+      <workItem from="1567066260416" duration="2551000" />
+      <workItem from="1567068848752" duration="2717000" />
+      <workItem from="1567128912293" duration="3465000" />
+      <workItem from="1567565408573" duration="5705000" />
+      <workItem from="1568451814357" duration="171000" />
+      <workItem from="1568455232342" duration="5536000" />
+      <workItem from="1568967262287" duration="2757000" />
+      <workItem from="1569401007991" duration="1352000" />
+      <workItem from="1569462426881" duration="76000" />
+      <workItem from="1569462921484" duration="14174000" />
+      <workItem from="1570505625486" duration="1137000" />
+      <workItem from="1570630822823" duration="1022000" />
+      <workItem from="1571018755759" duration="3000" />
+      <workItem from="1573611426307" duration="1512000" />
+      <workItem from="1573781028808" duration="994000" />
+      <workItem from="1573782248758" duration="3434000" />
+      <workItem from="1577844879857" duration="1240000" />
+      <workItem from="1583659126734" duration="285000" />
+      <workItem from="1583659425012" duration="19000" />
+      <workItem from="1583660188359" duration="153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
