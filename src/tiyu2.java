@@ -1,4 +1,4 @@
-//Java中，接口是允许多继承的
+//Java中，接口是允许多继承的，不同于类
 public interface tiyu2 extends Sports,tiyu1{
 
 }
